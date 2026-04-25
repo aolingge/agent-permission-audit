@@ -1,0 +1,1 @@
+Permissions: file read/write allowed only in src. Shell commands require verification. Browser/network use only for docs. Never expose secrets or cookies.
